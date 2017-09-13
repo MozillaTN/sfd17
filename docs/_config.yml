@@ -1,7 +1,7 @@
 title: MozillaTN SFD 2K17
 description: Easy way to get started with Mozilla Community
-url: # site url
-avatar: /assets/img/avatar.png # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
+url: https://mozillatn.github.io/sfd17 # site url
+avatar: https://mozillatn.github.io/sfd17/assets/img/avatar.png # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
 favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
 google_analytics: # google analytics id
 disqus_shortname: # disqus_shortname for disqus comment system
