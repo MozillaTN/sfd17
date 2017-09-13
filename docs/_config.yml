@@ -9,6 +9,9 @@ disqus_shortname: # disqus_shortname for disqus comment system
 permalink:      /:title/
 domain_name: 'http://mozillatn.github.io'
 
+# Build settings
+markdown: kramdown
+
 # Content for about page.
 # Each paragraph will be a <p> tag which is inserted to about
 # page. text_align is used to align the text. Default is left.
