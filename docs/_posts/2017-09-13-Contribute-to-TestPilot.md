@@ -19,11 +19,11 @@ We are going to install a small test pilot called min vid and enjoy watching you
 - Visit  min-vid Experiment [page](https://testpilot.firefox.com/experiments/min-vid)
 - Enable Test Pilot addon and Min-vid
 
-![Min-vid installation](/assets/img/blog/min-vid.png)
+![Min-vid installation]({{ site.url}}/assets/img/blog/min-vid.png)
 
 - After the add-on is installed visit youtube and click on **play now**  button which appears when we move mouse above video.
 
-![Min-vid installation](/assets/img/blog/play_now.png)
+![Min-vid installation]({{ site.url}}/assets/img/blog/play_now.png)
 
 
 You keep using the min-vid test pilot and also install other test-pilot add-ons. Share the feedback whenever survey is available.
