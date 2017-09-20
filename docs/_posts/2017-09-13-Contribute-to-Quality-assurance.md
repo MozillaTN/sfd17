@@ -3,6 +3,7 @@ layout: post
 title: Contribute to Firefox QA team
 date: 2017-09-13 00:01:30
 tags: english
+twitter: MozillaQA
 category: blog
 ---
 

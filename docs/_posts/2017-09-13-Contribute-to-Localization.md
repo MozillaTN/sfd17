@@ -3,6 +3,7 @@ layout: post
 title: Contribute to Localization Community
 date: 2017-09-13 00:00:45
 tags: english
+twitter: mozilla_l10n
 category: blog
 ---
 

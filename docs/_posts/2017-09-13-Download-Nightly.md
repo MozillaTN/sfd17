@@ -2,7 +2,8 @@
 layout: post
 title: Download Firefox Nightly
 date: 2017-09-13 00:00:15
-tags: english
+tags: englisih
+twitter: FirefoxNightly
 category: blog
 ---
 
